@@ -1,0 +1,22 @@
+export const menus = [
+    {
+        label:'collection',
+        path:'#'
+    },
+    {
+        label:'men',
+        path:'#'
+    },
+    {
+        label:'women',
+        path:'#'
+    },
+    {
+        label:'about',
+        path:'#'
+    },
+    {
+        label:'contact',
+        path:'#'
+    },
+]
